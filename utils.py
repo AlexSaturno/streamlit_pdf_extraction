@@ -5,7 +5,6 @@ from pathlib import Path
 import os
 import re
 from pdf2image import convert_from_path
-from configs import *
 
 
 PASTA_RAIZ = Path(__file__).parent
